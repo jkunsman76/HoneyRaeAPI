@@ -123,14 +123,6 @@
       "id": 3
     },
     {
-      "description": "windows all black screen!!! ",
-      "emergency": true,
-      "customerId": 10,
-      "employeeId": 2,
-      "dateCompleted": "",
-      "id": 4
-    },
-    {
       "description": "GPU over heating",
       "emergency": false,
       "customerId": 11,
